@@ -1,0 +1,1 @@
+/home/nabil/rust-pgs/compress/target/debug/compress: /home/nabil/rust-pgs/compress/src/compressor/gzip.rs /home/nabil/rust-pgs/compress/src/compressor/mod.rs /home/nabil/rust-pgs/compress/src/compressor/zip.rs /home/nabil/rust-pgs/compress/src/main.rs
